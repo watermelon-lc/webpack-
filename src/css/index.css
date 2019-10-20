@@ -1,0 +1,15 @@
+@import "./header.css";
+@import "./sider.scss";
+@import "../font/iconfont.css";
+
+i{
+    font-size: inherit !important;
+}
+p {
+    display: flex;
+    text-align: center;
+    background-color: aquamarine;
+}
+img {
+    transform: rotateZ(15deg);
+}
